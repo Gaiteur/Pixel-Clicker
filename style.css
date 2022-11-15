@@ -1,0 +1,99 @@
+body {
+  text-align: center;
+  font-family: arial, serif;
+  font-weight: bold;
+  background-image: url(./img/background.gif) ;
+  background-repeat: no-repeat;
+  background-size: 1600px;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+}
+
+p {
+  color: rgb(255, 255, 255);
+  font-size: 1.2em;
+}
+
+.image-anime:hover{
+zoom: 1.005;
+}
+
+/*-----------------------------------clique-utilisateur--------------------------------*/
+
+.clique{
+  position:absolute;
+  height: auto;
+  max-width: 5%;
+  right: 580px;
+  top: 380px;
+}
+
+button {
+  background-color: #0081b000;
+  border: 1px solid #0081b000;
+  color: #eee;
+}
+
+/*-----------------------------------Auto-clicker--------------------------------*/
+
+#bitcoin{
+  position: absolute;
+  width: 15%;
+  right: 140px;
+  top: 125px;
+}
+
+#prixautoclicker{
+  position: absolute;
+  right: 140px;
+  top: 130px;
+}
+
+#buy-auto-clicker{
+  position: absolute;
+  right: 295px;
+  top: 300px;
+  width: 5.6%;
+}
+
+#auto-clickers{
+  position: absolute;
+  right: 325px;
+  top: 350px;
+}
+
+
+/*-----------------------------------Multiplicateur-clicker--------------------------------*/
+
+#ado{
+  position: absolute;
+  width: 23%;
+  left: 90px;
+  bottom: 300px;
+}
+
+#prixclicker{
+  position: absolute;
+  left: 345px;
+  bottom: 390px;
+}
+
+#buy{
+  position: absolute;
+  width: 18%;
+  left: 149px;
+  bottom: 30px;
+}
+
+#clicker{
+  position: absolute;
+ left: 280px;
+  bottom: 100px;
+}
+
